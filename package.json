@@ -1,0 +1,56 @@
+{
+  "_from": "git+https://git@github.com/jcpagsinohin/node-rake.git",
+  "_id": "node-rake@0.0.9",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/node-rake",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://git@github.com/jcpagsinohin/node-rake",
+    "rawSpec": "git+https://git@github.com/jcpagsinohin/node-rake",
+    "saveSpec": "git+https://git@github.com/jcpagsinohin/node-rake.git",
+    "fetchSpec": "https://git@github.com/jcpagsinohin/node-rake.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://git@github.com/jcpagsinohin/node-rake.git#123894eec17250810c8ef738e17416254d85376f",
+  "_spec": "git+https://git@github.com/jcpagsinohin/node-rake",
+  "_where": "/home/jcpagsinohin/Desktop/npm-tests",
+  "author": {
+    "name": "Wasim Thabraze"
+  },
+  "bugs": {
+    "url": "https://github.com/waseem18/node-rake/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A NodeJS implementation of the Rapid Automatic Keyword Extraction algorithm.",
+  "devDependencies": {
+    "babel-jest": "^18.0.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "eslint": "^4.4.0",
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-import": "^2.7.0",
+    "jest": "^18.1.0"
+  },
+  "homepage": "https://github.com/waseem18/node-rake#readme",
+  "keywords": [
+    "keyword-extraction"
+  ],
+  "license": "MIT",
+  "main": "app.js",
+  "name": "node-rake",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waseem18/node-rake.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "version": "0.0.9"
+}
