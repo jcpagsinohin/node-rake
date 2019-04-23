@@ -83,6 +83,10 @@ can
 can't
 cannot
 cant
+case
+cases
+cast
+casts
 cause
 causes
 certain
@@ -146,6 +150,8 @@ exactly
 example
 except
 f
+fact
+facts
 far
 few
 fifth
@@ -175,6 +181,8 @@ gone
 got
 gotten
 greetings
+group
+groups
 h
 had
 hadn't
@@ -243,6 +251,8 @@ k
 keep
 keeps
 kept
+key
+keys
 know
 knows
 known
@@ -272,6 +282,7 @@ may
 maybe
 me
 mean
+means
 meanwhile
 merely
 might
@@ -365,7 +376,11 @@ regardless
 regards
 relatively
 respectively
+result
+results
 right
+role
+roles
 s
 said
 same
@@ -412,6 +427,8 @@ specified
 specify
 specifying
 still
+studies
+study
 sub
 such
 sup
@@ -476,6 +493,8 @@ try
 trying
 twice
 two
+type
+types
 u
 un
 under
@@ -490,13 +509,16 @@ us
 use
 used
 useful
+user
 uses
 using
 usually
 uucp
 v
 value
+varies
 various
+vary
 very
 via
 viz
@@ -507,6 +529,7 @@ wants
 was
 wasn't
 way
+ways
 we
 we'd
 we'll
