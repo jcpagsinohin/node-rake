@@ -277,6 +277,8 @@ looks
 ltd
 m
 mainly
+make
+makes
 many
 may
 maybe
@@ -439,6 +441,8 @@ take
 taken
 tell
 tends
+term
+terms
 th
 than
 thank
@@ -491,6 +495,7 @@ tries
 truly
 try
 trying
+turn
 twice
 two
 type
