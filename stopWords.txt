@@ -71,6 +71,7 @@ best
 better
 between
 beyond
+big
 both
 brief
 but
@@ -352,8 +353,10 @@ over
 overall
 own
 p
+part
 particular
 particularly
+parts
 per
 perhaps
 placed
@@ -413,6 +416,7 @@ should
 shouldn't
 since
 six
+small
 so
 some
 somebody
