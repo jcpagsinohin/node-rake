@@ -5,7 +5,7 @@
 A NodeJS implementation of the Rapid Automatic Keyword Extraction algorithm.
 
 # Installation
-`npm install node-rake`
+`npm install git+https://git@github.com/jcpagsinohin/node-rake`
 
 # Usage
 
