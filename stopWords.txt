@@ -254,6 +254,10 @@ keeps
 kept
 key
 keys
+kill
+kills
+kind
+kinds
 know
 knows
 known
@@ -408,6 +412,8 @@ sensible
 sent
 serious
 seriously
+set
+sets
 seven
 several
 shall
