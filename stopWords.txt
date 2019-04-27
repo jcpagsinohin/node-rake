@@ -116,6 +116,8 @@ described
 despite
 did
 didn't
+difference
+differences
 different
 do
 does
@@ -344,6 +346,7 @@ ones
 only
 onto
 or
+order
 other
 others
 otherwise
@@ -420,6 +423,8 @@ shall
 she
 should
 shouldn't
+similarity
+similarities
 since
 six
 small
