@@ -24,6 +24,8 @@ always
 am
 among
 amongst
+amount
+amounts
 an
 and
 another
